@@ -1,3 +1,13 @@
 # Modify this portfolio
 
-Make it your own! 
+Make it your own!
+
+Number and name of feature:
+
+Estimage of time needed to complete:
+
+Start time: 4/29 1:00pm
+
+Finish time:
+
+Actual time needed to complete:
