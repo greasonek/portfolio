@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Emily Greason. I'm a front-end software developer using skills in HTML5, CSS, and JavaScript. I'm interested in working in front-end software development implementing UX design to create user-friendly websites in GUI design and gesture-based UI.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Salmon Cookies",
+        "startDate": "2023",
+        "description": "This is a multi-page site that gathers and displays sales data for multiple store locations. It also allows the client to track, display and update sales data to help track potential growth for each location.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/cookie-stand/cookie-stand-one.jpg",
+          "images/portfolio/cookie-stand/cookie-stand-two.jpg"
         ],
         "url": "",
         "technologies": [
@@ -35,12 +35,11 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Code 301 Final",
+        "startDate": "2023",
+        "description": "Final Project",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/code-301-final/code-301-final.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,12 +54,12 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Odd Duck",
+        "startDate": "2023",
+        "description": " Odd Duck displays a voting system for a multitude of products that stores anonymous votes, processes user input and renders multiple displays of data. It also provides the client with data on the total number of product votes and percentages of votes per product to assist both the R&D team and marketing team in determining future product endeavors.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/odd-duck/odd-duck-one.jpg",
+          "images/portfolio/odd-duck/odd-duck-two.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
