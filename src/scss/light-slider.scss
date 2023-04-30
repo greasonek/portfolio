@@ -92,7 +92,7 @@ $content-background-color: #D7CAAA;
     }
   }
   &__startUp {
-    background-color: red;
+    background-color: #4CABA6;
     height: 100%;
     width: 100%;
 
@@ -405,7 +405,7 @@ $content-background-color: #D7CAAA;
     --timer-delay: 2000ms;
     --timer-release: 200ms;
     --timer-height: 4px;
-    --timer-background-color: rgba(0, 0, 0, 0.15);
+    --timer-background-color: #4CABA6;
 
     width: 100%;
     height: var(--timer-height);

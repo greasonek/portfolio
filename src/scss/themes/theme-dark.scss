@@ -3,105 +3,105 @@ body[data-theme="dark"] {
    @import '/src/scss/dark-slider.scss';
 
    .slider-tab {
-      background-color: #8C8C8C;
+      background-color: #F29057;
    }
 
    .title-styles {
-      color: white;
+      color: #F2E4DC;
    }
 
    .header-icon {
-      color: #3C342C;
+      color: #8C593B;
       opacity: 0.8;
    }
 
    .slider-image {
-      border: 5px solid #8C8C8C;
+      border: 5px solid #F29057;
    }
 
    .language {
-      background-color: #494949;
+      background-color: #F29057;
    }
 
    .link-href {
-      color: white;
+      color: #F29057;
    }
 
    .project-date {
-      background-color: #918e97;
-      color: white;
+      background-color: #260801;
+      color: #F29057;
    }
 
    header {
-      background-color: #494949;
+      background-color: #260801;
       h1 {
-         color: white;
+         color: #F2E4DC;
       }
    }
 
    #about {
-      background-color: #7f7f7f;
+      background-color: #59321B;
       h1 span {
-         color: white;
+         color: #F29057;
       }
       .polaroid span {
-         background:  #6d6d6d;
+         background:  #F29057;
       }
       .card {
-         background: #6d6d6d;
-         color: white;
+         background: #F29057;
+         color: #260801;
       }
    }
 
    #portfolio {
-      background: #5b5b5b;
+      background: #59321B;
       .section-title {
-         color: white !important;
+         color: #F29057 !important;
       }
       .foto div {
-         background: #6d6d6d;
+         background: #F29057;
       }
       .project-title-settings {
-         color: white;
+         color: #260801;
       }
    }
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      background: #260801;
       .section-title {
-         color: white !important;
+         color: #F29057 !important;
       }
 
       .experience-badge {
-         background: #919191 !important;
+         background: #BF8969 !important;
          color: white;
       }
 
       .main-badge {
-         background: #919191 !important;
+         background: #BF8969 !important;
       }
 
       .vertical-timeline-element-date {
-         color: white;
+         color: #F29057;
       }
 
       .vertical-timeline-element-icon {
-         background: #919191 !important;
+         background: #BF8969 !important;
       }
       @media only screen and (max-width: 1169px) { 
          .vertical-timeline-element-date {
-            color: black;
+            color: #F29057;
          }
       }
    }
 
    .modal-inside .modal-content {
-      background: #5b5b5b;
-      color: white;
+      background: #260801;
+      color: #BF8969;
    }
 
    .close-icon {
-      color: white;
+      color: #BF8969;
    }
 }

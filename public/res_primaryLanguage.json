@@ -39,7 +39,7 @@
         "startDate": "2023",
         "description": "Final Project",
         "images": [
-          "images/portfolio/code-301-final/code-301-final.jpg"
+          "images/portfolio/code-301-final/code-301-final-2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -80,37 +80,29 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Software Engineer Student",
+        "years": "01.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML5",
+          "CSS3"
+
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Evergrow Northwest",
+        "title": "Operations Manager",
+        "years": "03.2019 - present",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+         ""
         ]
       }
     ]
