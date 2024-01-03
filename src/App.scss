@@ -27,11 +27,11 @@ html {
 .header-icon {
 	height: 150px;
 	width: 150px;
-	color:#F2E4DC;
+	color:#CDC9C3;
 }
 
 header {
-	background-image: url("../public/images/portfolio-background.jpg");
+	background-image: url("../public/images/portfolio-background9.jpg");
 	position: relative;
 	height: 520px;
 	min-height: 450px;
@@ -40,20 +40,33 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #F2E4DC;
+	background-color: #CDC9C3;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	padding-top: 150px;
 	padding-bottom: 0;
-	color:#F2E4DC;
+	color:#CDC9C3;
 }
 
+header a {
+	color: #272C29 !important
+}
 header .nav {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
+	
+}
+
+div.react-switch-bg {
+	background-color: #6E7E60 !important
+}
+
+.title-container {
+	margin:20px;
+	font-size: 15px;
 }
 
 .github-corner:hover .octo-arm {
@@ -73,23 +86,25 @@ header .nav {
 	padding: 8px 15px 2px 15px;
 	position: relative;
 	z-index: -500;
-	border-top: 5px solid #BF7E78;
+	border-top: 5px solid #7B8478;
 	border-radius: 0 0 5px 5px;
-	background-color: #BF7E78;
+	background-color: #7B8478;
 	color: white;
 }
 
 .skills-tile {
-	background-color: transparentize(#F2E4DC, 0.95);
+	background-color: transparentize(#CDC9C3, 0.95);
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
 	border-radius: 8px;
 }
 
+
+
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #CDC9C3;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -98,18 +113,18 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #F2E4DC;
+	color: #CDC9C3;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
 
 .slider-image {
-	border: 5px solid #A67C58;
+	border: 5px solid #CDC9C3;
 }
 
 .slider-tab {
-	background-color: #A67C58;
+	background-color: #CDC9C3;
 	height: 25px;
 }
 
@@ -123,7 +138,7 @@ header h1 {
 }
 
 #about {
-	background: #D9BBA0;
+	background: #CDC9C3;
 	overflow: hidden;
 }
 
@@ -132,7 +147,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #F2E4DC;
+	color: #CDC9C3;
 	text-align: center;
 }
 
@@ -191,7 +206,7 @@ header h1 {
 }
 
 .polaroid span {
-	background: #F2E4DC;
+	background: #9F9F99;
 	display: inline-block;
 	margin: 55px 75px 30px;
 	padding: 15px 15px 30px;
@@ -208,7 +223,7 @@ header h1 {
 }
 
 .link-href {
-	color: #4C4A59;
+	color: F2E4DC;
 }
 
 .wave {
@@ -234,7 +249,7 @@ header h1 {
 }
 
 #resume {
-	background: #F2E4DC;
+	background: #CDC9C3;
 }
 
 .experience-icon {
@@ -248,8 +263,8 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #BF7E78 !important;
-	color: #F2E4DC;
+	background-color: #787284 !important;
+	color: #CDC9C3;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -259,15 +274,27 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #F2E4DC !important;
-	color: #F2E4DC;
+	background-color: #CDC9C3 !important;
+	color: #CDC9C3;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+span.vertical-timeline-element-icon.bounce-in{
+	background-color: #7B8478 !important
+}
+
+span.main-badge.mr-2.mb-2.badge.rounded-pill.bg-primary {
+	background-color:#7B8478 !important
+}
+
+span.experience-badge.mr-2.mb-2.badge.rounded-pill.bg-primary {
+	background-color:#7B8478 !important
+}
 .vertical-timeline-element-date {
 	padding: 0 !important;
 	margin: 0 !important;
+	
 }
 
 @media only screen and (max-width: 1170px) {
@@ -279,7 +306,7 @@ header h1 {
 }
 
 .modal-inside .modal-content {
-	background: #F2E4DC;
+	background: #CDC9C3;
 }
 
 .bars {
@@ -304,7 +331,7 @@ header h1 {
 
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-	color: #313131;
+	color: #272C29;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	font-weight: normal;
@@ -356,7 +383,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #D9BBA0;
+	background: #CDC9C3;
 	padding-bottom: 5%;
 }
 
@@ -371,7 +398,7 @@ header h1 {
 	-moz-transition: all ease 0.5s;
 	transition: all ease 0.5s;
 	opacity: 0;
-	background-color: #8C593B;
+	background-color: #272C29;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -392,7 +419,7 @@ header h1 {
 }
 
 #skills {
-	background: #BF7E78;
+	background: #7B8478;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -405,36 +432,36 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #F2E4DC;
+	color: #CDC9C3;
 	text-align: center;
 }
 
 .skill-icon {
 	font-size: 180%;
-	color: #F2E4DC;
+	color: #CDC9C3;
 	text-align: center;
 	position: relative;
 }
 
 footer {
-	background: #8C593B;
+	background: #272C29;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
 	font-size: 14px;
-	color: #F2E4DC;
+	color: #CDC9C3;
 	position: relative;
 	text-align: center;
 }
 
 footer a,
 footer a:visited {
-	color: #F2E4DC;
+	color: #CDC9C3;
 }
 
 footer a:hover,
 footer a:focus {
-	color: #F2E4DC;
+	color: #CDC9C3;
 }
 
 .social-links {

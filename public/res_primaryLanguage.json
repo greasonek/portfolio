@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Emily Greason. I'm a front-end software developer using skills in HTML5, CSS, and JavaScript. I'm interested in working in front-end software development implementing UX design to create user-friendly websites in GUI design and gesture-based UI.",
+      "description": "👋 I'm Emily Greason. I'm a full stack software engineer using skills in JavaScript, React, and NodeJS. I'm interested in working in full stack software development implementing UX design to create user-friendly, customer oriented websites as well as designing and maintaining databases implementing scalable solutions.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -21,16 +21,16 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS3#"
           }
         ]
       },
@@ -44,8 +44,8 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
             "class": "devicon-javascript-plain",
@@ -64,16 +64,16 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       }
@@ -82,16 +82,21 @@
       {
         "company": "Code Fellows",
         "title": "Software Engineer Student",
-        "years": "01.2023 - present",
+        "years": "01.2023 - 12.2023",
         "mainTech": [
           "JavaScript"
         ],
         "technologies": [
           "JavaScript",
+          "React",
+          "NodeJS",
           "Bootstrap",
+          "AWS",
+          "MongoDB",
+          "React Native",
+          "Swift",
           "HTML5",
           "CSS3"
-
         ]
       },
       {

@@ -37,7 +37,7 @@ class Header extends Component {
 
     return (
       <header id="home" style={{ height: window.innerHeight - 100, display: 'block' }}>
-        <a href="https://github.com/codefellows/cra-template-react-portfolio" target="_blank" rel="noreferrer" className="github-corner" aria-label="View source on GitHub">
+        <a href="https://github.com/greasonek" target="_blank" rel="noreferrer" className="github-corner" aria-label="View my GitHub">
           <svg width="90" height="90" viewBox="0 0 250 250" style={{ fill: '#151513', color: '#fff', position: 'absolute', top: 0, border: 0, left: 0, transform: 'scale(-1, 1)', zIndex: 9999 }} aria-hidden="true">
             <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
             <path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style={{ transformOrigin: '130px 106px' }} className="octo-arm"></path>
@@ -67,7 +67,7 @@ class Header extends Component {
               uncheckedIcon={
                 <span
                   className="iconify"
-                  data-icon="twemoji:owl"
+                  data-icon="twemoji:crescent-moon"
                   data-inline="false"
                   style={{
                     display: "block",
@@ -82,7 +82,7 @@ class Header extends Component {
               checkedIcon={
                 <span
                   className="iconify"
-                  data-icon="noto-v1:sun-with-face"
+                  data-icon="twemoji:sun"
                   data-inline="false"
                   style={{
                     display: "block",
@@ -101,7 +101,7 @@ class Header extends Component {
         <div className="row aligner" style={{height: '100%'}}>
           <div className="col-md-12">
             <div>
-              <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
+              <span className="iconify header-icon" data-icon="arcticons:dcoder" data-inline="false"></span>
               <br/>
               <h1 className="mb-0">
                 {name}
