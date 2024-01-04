@@ -100,8 +100,6 @@ div.react-switch-bg {
 	border-radius: 8px;
 }
 
-
-
 .language {
 	font-size: 25px;
 	background-color: #CDC9C3;
@@ -120,11 +118,11 @@ header h1 {
 }
 
 .slider-image {
-	border: 5px solid #CDC9C3;
+	border: 5px solid #6E7E60;
 }
 
 .slider-tab {
-	background-color: #CDC9C3;
+	background-color: #6E7E60;
 	height: 25px;
 }
 
@@ -174,7 +172,7 @@ header h1 {
 }
 
 .foto div:after {
-	color: #F2E4DC;
+	color: #CDC9C3;
 	font-size: 25px;
 	content: attr(title);
 	position: relative;
@@ -196,7 +194,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color: #272C29;
 	text-align: center;
 }
 
@@ -223,7 +221,7 @@ header h1 {
 }
 
 .link-href {
-	color: F2E4DC;
+	color: #F2E4DC;
 }
 
 .wave {

@@ -11,12 +11,13 @@
     },
     "projects": [
       {
-        "title": "Salmon Cookies",
+        "title": "Nomad",
         "startDate": "2023",
-        "description": "This is a multi-page site that gathers and displays sales data for multiple store locations. It also allows the client to track, display and update sales data to help track potential growth for each location.",
+        "description": "Nomad is an all-in-one mobile travel planner designed to help plan the perfect roadtrip while building community around mutual travel experiences. Nomad uses React Native Expo, MongoDB, and leverages three third party APIs inluding Google Maps, AirBnB, and the National Forest Association to allow users to include routing and lodging in their trip plans.",
         "images": [
-          "images/portfolio/cookie-stand/cookie-stand-one.jpg",
-          "images/portfolio/cookie-stand/cookie-stand-two.jpg"
+          "images/portfolio/nomad-mobile/nomad-home.jpg",
+          "images/portfolio/nomad-mobile/nomad-map.jpg",
+          "images/portfolio/nomad-mobile/nomad-trails.jpg"
         ],
         "url": "",
         "technologies": [
@@ -25,12 +26,16 @@
             "name": "JavaScript"
           },
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML5"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-css3-plain",
-            "name": "CSS3#"
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           }
         ]
       },
@@ -87,7 +92,6 @@
           "JavaScript"
         ],
         "technologies": [
-          "JavaScript",
           "React",
           "NodeJS",
           "Bootstrap",

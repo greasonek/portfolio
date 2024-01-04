@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Emily Greason",
-      "titles": [ "Front-End Software Developer" ],
+      "titles": [ "Full-Stack Software Engineer" ],
       "social": [
         {
           "name": "github",
@@ -42,6 +42,31 @@
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
+        },
+        {
+          "name": "PostgreSql",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original",
+          "level": "60"
+        },
+        {
+          "name": "Jest",
+          "class": "devicon-jest-plain",
+          "level": "60"
+        },
+        {
+          "name": "MaterialUI",
+          "class": "devicon-materialui-plain",
+          "level": "65"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "65"
         },
         {
           "name": "HTML 5",
