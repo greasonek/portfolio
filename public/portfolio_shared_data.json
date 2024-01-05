@@ -54,16 +54,6 @@
           "level": "60"
         },
         {
-          "name": "Jest",
-          "class": "devicon-jest-plain",
-          "level": "60"
-        },
-        {
-          "name": "MaterialUI",
-          "class": "devicon-materialui-plain",
-          "level": "65"
-        },
-        {
           "name": "MongoDB",
           "class": "devicon-mongodb-plain",
           "level": "65"
