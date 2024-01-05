@@ -19,7 +19,7 @@
           "images/portfolio/nomad-mobile/nomad-map.jpg",
           "images/portfolio/nomad-mobile/nomad-trails.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/tech-enigmas/my-app",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -40,13 +40,13 @@
         ]
       },
       {
-        "title": "Code 301 Final",
-        "startDate": "2023",
-        "description": "Final Project",
+        "title": "Skull Hollow Studios",
+        "startDate": "2024",
+        "description": "COMING SOON!",
         "images": [
-          "images/portfolio/code-301-final/code-301-final-2.jpg"
+          "images/portfolio-experience2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/greasonek",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -59,12 +59,12 @@
         ]
       },
       {
-        "title": "Odd Duck",
-        "startDate": "2023",
-        "description": " Odd Duck displays a voting system for a multitude of products that stores anonymous votes, processes user input and renders multiple displays of data. It also provides the client with data on the total number of product votes and percentages of votes per product to assist both the R&D team and marketing team in determining future product endeavors.",
+        "title": "Josh King Designs",
+        "startDate": "2024",
+        "description": " COMING SOON!",
         "images": [
-          "images/portfolio/odd-duck/odd-duck-one.jpg",
-          "images/portfolio/odd-duck/odd-duck-two.jpg"
+          "images/portfolio-experience2.jpg"
+
         ],
         "url": "https://github.com",
         "technologies": [
