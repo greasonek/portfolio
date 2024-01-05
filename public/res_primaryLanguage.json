@@ -15,9 +15,10 @@
         "startDate": "2023",
         "description": "Nomad is an all-in-one mobile travel planner designed to help plan the perfect roadtrip while building community around mutual travel experiences. Nomad uses React Native Expo, MongoDB, and leverages three third party APIs inluding Google Maps, AirBnB, and the National Forest Association to allow users to include routing and lodging in their trip plans.",
         "images": [
-          "images/portfolio/nomad-mobile/nomad-home.jpg",
-          "images/portfolio/nomad-mobile/nomad-map.jpg",
-          "images/portfolio/nomad-mobile/nomad-trails.jpg"
+          "images/portfolio/nomad-mobile/nomad4.jpg",
+          "images/portfolio/nomad-mobile/nomad2.jpg",
+          "images/portfolio/nomad-mobile/nomad3.jpg",
+          "images/portfolio/nomad-mobile/nomad1.jpg"
         ],
         "url": "https://github.com/tech-enigmas/my-app",
         "technologies": [
