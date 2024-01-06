@@ -41,6 +41,32 @@
         ]
       },
       {
+        "title": "The Traveler's Quill",
+        "startDate": "2023",
+        "description": "The Traveler's Quill is a server side travel blog that utilizes Inquirer.js that provides a user interface for interactivity. It also utilizes MongoDB and CRUD functionality allowing users to create blog posts about their travels, edit and delete posts, and read about other people's travel experiences. Users can also like and comment on posts.",
+        "images": [
+          "images/portfolio/travelers-quill/TQ1.jpg",
+          "images/portfolio/travelers-quill/TQ2.jpg",
+          "images/portfolio/travelers-quill/TQ3.jpg",
+          "images/portfolio/travelers-quill/TQ4.jpg"
+        ],
+        "url": "https://github.com/tech-enigmas/travelers-quill",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      },
+      {
         "title": "Skull Hollow Studios",
         "startDate": "2024",
         "description": "COMING SOON!",
