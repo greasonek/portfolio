@@ -67,6 +67,33 @@
         ]
       },
       {
+        "title": "The Office Trivia Quiz",
+        "startDate": "2024",
+        "description": "The Office Trivia Quiz is a multiple choice game built with React using JavaScript. The game is styled using MUI. It is 30 questions long, it allows users one chance per question to choose correctly and keeps the score for each game.",
+        "images": [
+          "images/portfolio/the-office-trivia/trivia1.jpg",
+          "images/portfolio/the-office-trivia/trivia2.jpg",
+          "images/portfolio/the-office-trivia/trivia3.jpg",
+          "images/portfolio/the-office-trivia/trivia4.jpg"
+          
+        ],
+        "url": "https://github.com/greasonek/office-trivia",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          }
+        ]
+      },
+      {
         "title": "Skull Hollow Studios",
         "startDate": "2024",
         "description": "COMING SOON!",
