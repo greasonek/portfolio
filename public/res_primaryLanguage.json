@@ -148,10 +148,13 @@
         "technologies": [
           "React",
           "NodeJS",
-          "Bootstrap",
           "AWS",
           "MongoDB",
+          "Auth0",
           "React Native",
+          "Restful APIs",
+          "Bootstrap",
+          "MaterialUI",
           "Swift",
           "HTML5",
           "CSS3"
