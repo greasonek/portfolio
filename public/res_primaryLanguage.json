@@ -69,7 +69,7 @@
       {
         "title": "The Office Trivia Quiz",
         "startDate": "2024",
-        "description": "The Office Trivia Quiz is a multiple choice game built with React using JavaScript. The game is styled using MUI. It is 30 questions long, it allows users one chance per question to choose correctly and keeps the score for each game.",
+        "description": "The Office Trivia Quiz is a multiple choice game built with React using JavaScript. The game is styled using MUI. It is 20 questions long, it allows users one chance per question to choose correctly and keeps the score for each game.",
         "images": [
           "images/portfolio/the-office-trivia/trivia1.jpg",
           "images/portfolio/the-office-trivia/trivia2.jpg",
