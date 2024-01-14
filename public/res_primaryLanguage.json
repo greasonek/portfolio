@@ -77,7 +77,7 @@
           "images/portfolio/the-office-trivia/trivia4.jpg"
           
         ],
-        "url": "https://github.com/greasonek/office-trivia",
+        "url": "https://theofficetriviaquiz.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
