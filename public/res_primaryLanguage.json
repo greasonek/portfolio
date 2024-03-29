@@ -94,6 +94,27 @@
         ]
       },
       {
+        "title": "Vegan Strong",
+        "startDate": "2024",
+        "description": "Vegan Strong is a clean and simple multipage project created with Wix that includes features such as pop-up subscription forms, email and user data gathering as well as event storage, blogging capabilities and user access to vegan recipes and meal plans.",
+        "images": [
+          "images/portfolio/vegan-strong/VS10.jpg",
+          "images/portfolio/vegan-strong/VS1.jpg",
+          "images/portfolio/vegan-strong/VS2.jpg",
+          "images/portfolio/vegan-strong/VS3.jpg",
+          "images/portfolio/vegan-strong/VS4.jpg",
+          "images/portfolio/vegan-strong/VS5.jpg",
+          "images/portfolio/vegan-strong/VS6.jpg",
+          "images/portfolio/vegan-strong/VS7.jpg",
+          "images/portfolio/vegan-strong/VS8.jpg",
+          "images/portfolio/vegan-strong/VS9.jpg"
+        ],
+        "url": "https://www.veganstrong.com/",
+        "technologies": [
+          
+        ]
+      },
+      {
         "title": "Skull Hollow Studios",
         "startDate": "2024",
         "description": "COMING SOON!",
